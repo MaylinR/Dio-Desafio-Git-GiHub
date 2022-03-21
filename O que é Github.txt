@@ -1,0 +1,22 @@
+
+
+< GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
+Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+(Fonte: Wikipédia)
+
+
+
+Principais características do GitHub
+
+Para começar a se familiarizar com a plataforma, você precisa entender quais são as principais funções, então vamos lá:
+
+➜ Repositório: onde os seus arquivos (códigos, imagens, áudios etc) ficam armazenados, com as opções de depósito do próprio GitHub ou no seu computador;
+
+➜ Branch: cópia do diretório para desenvolvimento isolado, que não afeta o repositório central ou outros branches. Depois de concluir o seu trabalho, você pode combinar o seu branch isolado com outros branches por meio de uma merge, utilizando o Pull Request.
+
+➜ Pull Request: é quando você informa que irá implantar as mudanças no seu branch ao repositório máster, podendo ser aceito ou negado pelos colaboradores. Além disso, é possível revisar e discutir seu trabalho com os demais.
+
+➜ Forking: é a criação de um novo projeto com base em repositório existentes, fazendo as alterações necessárias e armazenando a nova versão como um novo repositório.
+
+Para entrar no GitHub é preciso criar uma conta individual ou para a sua equipe, preenchendo os dados solicitados. Você pode optar pela opção gratuita ou paga. A última conta com algumas vantagens como repositórios privados.
+(Fonte: Digital House)
